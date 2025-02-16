@@ -12,7 +12,7 @@ class Persona{
 	protected : 
 	Persona(){
 	}
-	Persona(string  nom. string ape, string dir, int tel, string fn){
+	Persona(string  nom, string ape, string dir, int tel, string fn){
 
 		nombres = nom;
 		apellidos = ape;
